@@ -103,3 +103,17 @@ button {
     color: white;
     border: none;
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Booking Form</title>
+</head>
+<body>
+    <h1>Book Your Flight</h1>
+    <form id="booking-form">
+        <input type="text" id="from-destination" placeholder="From">
+        <input type="text" id="to-destination" placeholder="To">
+        <input type="date" id="departure-date">
+        <input type="date" id="return-date
